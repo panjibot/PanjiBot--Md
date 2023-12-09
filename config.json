@@ -1,0 +1,35 @@
+{
+  "ownerNumber": "6283802364073@s.whatsapp.net",
+  "creatorNumber": "6283857092641@s.whatsapp.net",
+  "owner": ["6283857092641", "6281537668728"],
+  "ownerName": "Vanz¿",
+  "botName": "VanzBot",
+  "packname": "follow",
+  "author": "@xmhddafa",
+  "pathimg": "./media/bg.jpg",
+  "pathimg1": "./media/bg1.jpg",
+  "vanzkey": "vanzbot",
+  "apikey": {
+    "caliph": "masukan api caliph di https://api.caliph.biz.id",
+    "lol": "masukan api lol di https://api.lolhuman.xyz",
+    "zein": "masukan api zein di https://api.zahwazein.xyz",
+    "xcode": "masukan api xcode di https://api.xcodeteam.xyz"
+  },
+  "hmm": {
+    "yt": "https://youtube.com/@darkedtz_",
+    "ig": "https://instagram.com/xmhddafa",
+    "wa1": "https://wa.me/6281537668728",
+    "wa": "https://api.whatsapp.com/send/?phone=6283857092641&text=Halo%2C+Bang+Dafa+ganteng+Creator+VanzBot+MD+info+lebih+lanjut%3F",
+    "linkmenu": "https://chat.whatsapp.com/LZ49Dn5bybW61EEt5dvATF"
+  },
+  "donasi": {
+	"dana": "083857092641",
+	"gopay": "083857092641"
+  },
+  "gamewaktu": 120,
+  "limitCount": 50,
+  "gcount": {
+	"prem": 70,
+	"user": 30
+  }
+}
