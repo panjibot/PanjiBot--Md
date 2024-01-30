@@ -1,6 +1,6 @@
 /*
-  pairing code by vanz
-  wa.me/6283857092641
+  pairing code by pan
+  wa.me/6283141083033
 */
 
 "use strict";
