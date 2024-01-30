@@ -1,6 +1,6 @@
 /**
-  * Created by Riy
-  * WhatsApp wa.me/6281575886399
+  * Created by Pan
+  * WhatsApp wa.me/6283141083033
   * Follow me on Instagram @riycoders
 */
 
