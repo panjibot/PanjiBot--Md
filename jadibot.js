@@ -1,7 +1,7 @@
 /**
   * Created by Riy
-  * WhatsApp wa.me/6281575886399
-  * Follow me on Instagram @riycoders
+  * WhatsApp wa.me/6283141083033
+  * Follow me on Instagram @panjisuvakti2
 */
 
 "use strict";
